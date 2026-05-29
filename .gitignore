@@ -47,7 +47,9 @@ best_glaucoma_model.pth
 # Scripts & Generated Assets
 generate_graphs.py
 generate_architecture.py
-*.png
+architecture.png
+category_accuracy.png
+cluster_distribution.png
 AI-ML Mini Project Submission Format.pdf
 
 # Secrets
