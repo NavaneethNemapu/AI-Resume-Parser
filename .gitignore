@@ -44,6 +44,12 @@ frontend/npm-debug.log*
 *.hdf5
 best_glaucoma_model.pth
 
+# Scripts & Generated Assets
+generate_graphs.py
+generate_architecture.py
+*.png
+AI-ML Mini Project Submission Format.pdf
+
 # Secrets
 .env
 secret_key.txt
